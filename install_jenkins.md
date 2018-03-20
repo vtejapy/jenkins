@@ -3,17 +3,6 @@
 
 # How to Install Jenkins on CentOS 7
 
-Jenkins is a popular open source CI (Continuous Integration) tool which is widely used for project development, deployment, and automation.
-
-This article will guide you through the process of installing Jenkins on a Vultr CentOS 7 server instance. In order to facilitate visitors' access, Nginx will also be installed as the reverse proxy for Jenkins.
-
-### Prerequisites
-
-Before proceeding, you must have:
-
-* Deployed a Vultr CentOS 7 server instance from scratch.
-* Logged into your machine as a non-root user with sudo privileges.
-
 ### Step 1: Update your CentOS 7 system
 
 One of the Linux system administrator's best practices is keeping a system up to date. Install the latest stable packages, then reboot.
